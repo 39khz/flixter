@@ -61,6 +61,8 @@ end
   gem 'bootstrap', '~> 4.3.1'
   gem 'jquery-rails'
   gem 'sprockets-rails'
+  gem 'simple_form'
+  gem 'devise'
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
